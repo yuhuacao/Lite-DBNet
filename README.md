@@ -2,7 +2,7 @@
 
 ## 数据准备
 以icdar2015数据集为例，下载数据集解压到工作目录dataset下，整理如下图所示：  
-![dataset](/home/yuhua/Github/Lite-DBNet-0709/Lite-DBNet/picture/dataset.png)  
+![dataset](./picture/dataset.png)  
 
 使用generate_labels.py分别生成train.txt和test.txt文件。
 
